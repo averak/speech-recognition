@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="StickySelectionHighlights">
+    <option name="editorHighlights">
+      <map>
+        <entry key="$USER_HOME$/.keras/keras.json">
+          <value>
+            <PaintGroupHighlightMap />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.pyenv/versions/anaconda3-4.1.1/lib/python3.5/site-packages/keras/backend/tensorflow_backend.py">
+          <value>
+            <PaintGroupHighlightMap />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/README.md">
+          <value>
+            <PaintGroupHighlightMap />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Recognizer.py">
+          <value>
+            <PaintGroupHighlightMap />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cnn.py">
+          <value>
+            <PaintGroupHighlightMap />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/detection.py">
+          <value>
+            <PaintGroupHighlightMap />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/files/design_infer.txt">
+          <value>
+            <PaintGroupHighlightMap />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/infer.py">
+          <value>
+            <PaintGroupHighlightMap />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/player.py">
+          <value>
+            <PaintGroupHighlightMap />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/recording.py">
+          <value>
+            <PaintGroupHighlightMap />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/response.py">
+          <value>
+            <PaintGroupHighlightMap />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/test.py">
+          <value>
+            <PaintGroupHighlightMap />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Voice_Recording/README.md">
+          <value>
+            <PaintGroupHighlightMap />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/東工大附属/課題研究/myProject/src/Recognition/infer.py">
+          <value>
+            <PaintGroupHighlightMap />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
