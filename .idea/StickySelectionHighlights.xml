@@ -13,6 +13,26 @@
             <PaintGroupHighlightMap />
           </value>
         </entry>
+        <entry key="$USER_HOME$/.zprezto/modules/prompt/external/powerlevel9k/powerlevel9k.zsh-theme">
+          <value>
+            <PaintGroupHighlightMap />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.zprezto/runcoms/zpreztorc">
+          <value>
+            <PaintGroupHighlightMap />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.zprezto/runcoms/zshrc">
+          <value>
+            <PaintGroupHighlightMap />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.zshrc">
+          <value>
+            <PaintGroupHighlightMap />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/README.md">
           <value>
             <PaintGroupHighlightMap />
@@ -64,6 +84,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../Voice_Recording/README.md">
+          <value>
+            <PaintGroupHighlightMap />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/zshrc_">
           <value>
             <PaintGroupHighlightMap />
           </value>

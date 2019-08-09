@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd8f5224-fd03-45f6-a96e-ebb1ccee9bf9" name="Default Changelist" comment="" />
+    <list default="true" id="cd8f5224-fd03-45f6-a96e-ebb1ccee9bf9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/StickySelectionHighlights.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/StickySelectionHighlights.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,32 +35,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/detection.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/infer.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="55" column="25" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
-              <folding>
-                <element signature="e#24#65#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="495">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="15">
-                <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$USER_HOME$/.zprezto/modules/prompt/external/powerlevel9k/powerlevel9k.zsh-theme">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="409">
+              <caret line="1114" column="54" lean-forward="true" selection-start-line="1114" selection-start-column="54" selection-end-line="1114" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -98,6 +86,19 @@
       <find>pool</find>
       <find>dim</find>
       <find>self.classes</find>
+      <find>sorin</find>
+      <find>theme</find>
+      <find>knack</find>
+      <find>ZSH_T</find>
+      <find>#</find>
+      <find>ZSH</find>
+      <find>USER</find>
+      <find>white</find>
+      <find>time</find>
+      <find>POWERLEVEL9K</find>
+      <find>git</find>
+      <find>command</find>
+      <find>green</find>
     </findStrings>
     <replaceStrings>
       <replace>self.shift_format_path</replace>
@@ -124,6 +125,11 @@
         <option value="$PROJECT_DIR$/recording.py" />
         <option value="$PROJECT_DIR$/infer.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$USER_HOME$/.zprezto/runcoms/zpreztorc" />
+        <option value="$USER_HOME$/.zprezto/runcoms/zshrc" />
+        <option value="$USER_HOME$/zshrc_" />
+        <option value="$USER_HOME$/.zshrc" />
+        <option value="$USER_HOME$/.zprezto/modules/prompt/external/powerlevel9k/powerlevel9k.zsh-theme" />
       </list>
     </option>
   </component>
@@ -159,8 +165,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="editor.config.ad.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -197,12 +205,12 @@
       <updated>1565309241195</updated>
       <workItem from="1565309245009" duration="178000" />
       <workItem from="1565309531854" duration="19663000" />
-      <workItem from="1565331296104" duration="56000" />
+      <workItem from="1565331296104" duration="3501000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19897000" />
+    <option name="totallyTimeSpent" value="23342000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -447,13 +455,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/detection.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/api.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -474,16 +475,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/infer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="55" column="25" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
-          <folding>
-            <element signature="e#24#65#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -491,6 +482,65 @@
             <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+          <folding>
+            <element signature="e#24#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.zprezto/runcoms/zshrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="299" column="23" lean-forward="true" selection-start-line="299" selection-start-column="23" selection-end-line="299" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.zshrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="313" lean-forward="true" selection-start-line="313" selection-end-line="313" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/zshrc_">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="312" selection-end-line="312" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.oh-my-zsh/oh-my-zsh.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.zprezto/runcoms/zpreztorc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="118" column="50" selection-start-line="118" selection-start-column="50" selection-end-line="118" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/detection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.zprezto/modules/prompt/external/powerlevel9k/powerlevel9k.zsh-theme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="1114" column="54" lean-forward="true" selection-start-line="1114" selection-start-column="54" selection-end-line="1114" selection-end-column="54" />
         </state>
       </provider>
     </entry>
