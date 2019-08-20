@@ -67,7 +67,7 @@ class Detecation(Recording):
 
         # コンソール出力
         self.console.draw(int(self.state['average']), int(self.state['amp']), int(self.state['border']),
-                         '\033[{0}m録音中\033[0m'.format(self.color), *self.meter())
+                          '\033[{0}m録音中\033[0m'.format(self.color), *self.meter())
 
         # 立ち上がり検出
         if self.up_edge() and self.record_end.is_set():
