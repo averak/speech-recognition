@@ -35,7 +35,6 @@ The registered voice commands are as follows. (Can be added other commands)
 
 ```
 $ git clone https://github.com/Crtv-info/Speech_Recognition
-$ cd Speech_Recognition
 ```
 
 ## Execution
