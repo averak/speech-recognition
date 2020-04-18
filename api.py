@@ -6,8 +6,13 @@ from infer import Inference
 # api（ログを無効化）
 api = Flask(__name__)
 logging.getLogger('werkzeug').disabled = True
-# 推論を行うオブジェクト
-pred = Inference()
+
+
+@api.before_first_request
+def startup():
+    ## -----*----- サーバ起動後に実行 -----*----- ##
+    global pred
+    pred = Inference()
 
 
 @api.route('/', methods=['POST'])

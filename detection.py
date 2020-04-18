@@ -4,6 +4,8 @@ import os, sys, gc, time, threading, math
 import numpy as np
 from recording import Recording
 from console import Console
+import warnings
+warnings.simplefilter("ignore", DeprecationWarning)
 
 
 class Detecation(Recording):
