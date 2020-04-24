@@ -1,4 +1,8 @@
 shift_data/
 teacher_data/
+<<<<<<< HEAD
 files/source.wav
 files/split_0.wav
+=======
+__pycache__
+>>>>>>> 7e0fe0e6611d99367599c2a1615aa7f8c23bf1fb
